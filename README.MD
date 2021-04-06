@@ -18,3 +18,5 @@ Plug 'joelpalmer/fzf-gh.vim'
 ## Features
 
 `:PRS` - show all Pull Requests in the current repo. Select one and the contents will be loaded into a new buffer.
+
+<img width="800" alt="Screen-fzf-gh" src="https://user-images.githubusercontent.com/8049061/113742815-9c030000-96c8-11eb-9845-dc18b5a94f8b.png">
