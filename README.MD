@@ -13,4 +13,8 @@ Put this in your `init.vim` or `.vimrc`.
 Plug 'joelpalmer/fzf-gh.vim'
 ```
 
-⚠️  You must have [fzf](https://github.com/junegunn/fzf) installed in order to use this plugin.
+⚠️  You must have [fzf](https://github.com/junegunn/fzf) and the [GitHub CLI](https://cli.github.com/) installed in order to use this plugin.
+
+## Features
+
+`:PRS` - show all Pull Requests in the current repo. Select one and the contents will be loaded into a new buffer.
