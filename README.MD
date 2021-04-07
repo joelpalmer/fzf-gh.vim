@@ -13,7 +13,7 @@ Put this in your `init.vim` or `.vimrc`.
 Plug 'joelpalmer/fzf-gh.vim'
 ```
 
-⚠️  You must have [fzf](https://github.com/junegunn/fzf) and the [GitHub CLI](https://cli.github.com/) installed in order to use this plugin.
+⚠️  You must have [fzf](https://github.com/junegunn/fzf) and the [GitHub CLI](https://cli.github.com/) v.1.8.0+ installed in order to use this plugin.
 
 <img width="800" alt="Screen-fzf-gh" src="https://user-images.githubusercontent.com/8049061/113742815-9c030000-96c8-11eb-9845-dc18b5a94f8b.png">
 
