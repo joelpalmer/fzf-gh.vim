@@ -32,6 +32,10 @@ Plug 'joelpalmer/fzf-gh.vim'
 let g:fzf_gh_website = 1
 ```
 
+
+
+_For a similar plugin that is much further along, neovim-only and uses [telescope](https://github.com/nvim-telescope/telescope.nvim) instead of [fzf](https://github.com/junegunn/fzf.vim), check out: [octo](https://github.com/pwntester/octo.nvim)_
+
 ## License
 
 MIT
