@@ -4,6 +4,8 @@
 
 Bringing [GitHub CLI](https://cli.github.com/) goodness into Vim with [fzf](https://github.com/junegunn/fzf).
 
+_*I am mostly transitioning to [telescope](https://github.com/nvim-telescope/telescope.nvim). There are a couple use cases in Vim that I still want FZF for. I will also continue to use FZF in the terminal. See below the settings section for more. I put a ton of work into my FZF + Vim setup. I was dreading doing a bunch of work to move to telescope. But, they made it really easy to make the switch._
+
 ## Installation
 
 Install using [vim-plug](https://github.com/junegunn/vim-plug) or other plugin manager.
