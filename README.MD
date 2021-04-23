@@ -36,7 +36,7 @@ let g:fzf_gh_website = 1
 
 
 
-_For a similar plugin that is much further along, neovim-only and uses [telescope](https://github.com/nvim-telescope/telescope.nvim) instead of [fzf](https://github.com/junegunn/fzf.vim), check out: [octo](https://github.com/pwntester/octo.nvim)_
+_For similar plugins that are much further along, neovim-only and use [telescope](https://github.com/nvim-telescope/telescope.nvim) instead of [fzf](https://github.com/junegunn/fzf.vim), check out: [octo](https://github.com/pwntester/octo.nvim) and [telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)_
 
 ## License
 
